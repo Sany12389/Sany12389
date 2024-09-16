@@ -1,5 +1,6 @@
 ## Hi there 👋
-Teste
+Estou estudando o tecnico informática de aplicativo SENAI em Ipatinga
+
 <!--
 **Sany12389/Sany12389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
